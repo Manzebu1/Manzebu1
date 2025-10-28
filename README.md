@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Baitik Orospekov
 
-<!--
-**Manzebu1/Manzebu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring web development by trying out projects and learning along the way.
+Mostly working with **HTML, CSS, JavaScript**, and starting to dive into **React**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently following **The Odin Project** and having fun learning web development  
+- 💡 I enjoy solving logic problems and building small games or utilities in JavaScript
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+`HTML` · `CSS` · `JavaScript` 
+
+**Tools:**  
+`VS Code` · `Git` · `GitHub` `Chrome DevTools`
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [GitHub](https://github.com/Manzebu1)
+- ✉️ Email: baitik@mailbox.unideb.hu
+
+---
+
+⭐️ *“Life is good” — Baitik Orospekov*
